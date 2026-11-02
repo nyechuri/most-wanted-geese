@@ -1,6 +1,7 @@
 // 🪿 MOST WANTED: GEESE OF THE QUAD
 //
-// Right now every poster is identical. Same goose, same crime, same reward.
+// Right now every poster is identical
+// Same goose, same crime, and same reward
 // In lab we'll fix that by giving WantedPoster some props.
 
 function WantedPoster() {
